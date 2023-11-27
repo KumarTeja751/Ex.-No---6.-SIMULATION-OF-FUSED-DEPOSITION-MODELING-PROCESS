@@ -22,8 +22,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: KUMARTEJA NARAMALA
+### Register Number: 23003525
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
