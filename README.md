@@ -21,7 +21,6 @@
 ![Screenshot 2023-11-27 182056](https://github.com/KumarTeja751/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144947756/04454785-82ee-4866-8095-f2f5de09bd8c)
 ![Screenshot 2023-11-27 182125](https://github.com/KumarTeja751/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144947756/cd5057db-fd81-4222-b3dc-eb05f45d30ad)
 
-## Output:
 
 ### Name: KUMARTEJA NARAMALA
 ### Register Number: 23003525
